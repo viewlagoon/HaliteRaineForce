@@ -1,0 +1,3 @@
+kaggle-environments==1.2.14
+numpy
+requests
